@@ -1,0 +1,2 @@
+add_lunch_combo devicename_kenzo-userdebug
+add_lunch_combo devicename_kenzo-eng
