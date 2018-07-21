@@ -1,2 +1,2 @@
-add_lunch_combo devicename_kenzo-userdebug
-add_lunch_combo devicename_kenzo-eng
+add_lunch_combo romname_kenzo-userdebug
+add_lunch_combo romname_kenzo-eng
